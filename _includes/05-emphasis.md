@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm currently learning **JavaScript** and its libraries **React** for *Web Apps* and **ReactNative** for *Mobile Apps*.
+I also have some experience in **Python** and **C++**.
