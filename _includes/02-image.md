@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Work](https://onlinecollegeplan.azureedge.net/wp-content/uploads/2018/05/computer-programming.jpg)
